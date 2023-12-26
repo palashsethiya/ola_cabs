@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1073588710155",
+    "project_id": "ola-cabs-d56b9",
+    "storage_bucket": "ola-cabs-d56b9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1073588710155:android:4917d7bfe67d321642900e",
+        "android_client_info": {
+          "package_name": "com.ola.ola_cabs"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjj-1K1OXw62F4473ggv5q07rIFI6gP4g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
